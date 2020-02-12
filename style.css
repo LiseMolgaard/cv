@@ -1,0 +1,11 @@
+body{
+  background-color: #EEE7E2;
+}
+body form{
+  background-color: pink;
+  padding: 50px;
+}
+body form input{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
